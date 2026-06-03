@@ -1,6 +1,6 @@
 # API Caching Layer (Cache-Aside Pattern)
 
-## Brief One-Line Summary
+## Summary
 A backend-focused Spring Boot project demonstrating the Cache-Aside caching pattern using an in-memory cache with TTL-based expiration for improved API performance.
 
 ---
